@@ -11,5 +11,6 @@ Fresher Cloud & DevOps Engineer | MCA 2023–2025 | Hands-on with AWS, Terraform
 ---
 
 ## 📫 Contact
-- GitHub: [https://github.com/PragnatejaBandiboyina](https://github.com/PragnatejaBandiboyina)
+
 - LinkedIn: [https://www.linkedin.com/in/pragnatejabandiboyina/](https://www.linkedin.com/in/pragnatejabandiboyina/)
+
