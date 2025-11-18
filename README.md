@@ -1,4 +1,4 @@
-# Hi, I'm Pragnateja 👋
+# 👋Hi, I'm Pragnateja 
 Fresher Cloud & DevOps Engineer | MCA 2023–2025 | Hands-on with AWS, Terraform, Kubernetes, Docker & CI/CD pipelines | Building automated, scalable cloud infrastructure projects
 
 ---
@@ -13,5 +13,6 @@ Fresher Cloud & DevOps Engineer | MCA 2023–2025 | Hands-on with AWS, Terraform
 ## 🌐 Socials
 
 - LinkedIn: [https://www.linkedin.com/in/pragnatejabandiboyina/](https://www.linkedin.com/in/pragnatejabandiboyina/)
+
 
 
